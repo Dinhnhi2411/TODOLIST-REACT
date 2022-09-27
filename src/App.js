@@ -53,7 +53,7 @@
           return (
             <div className="container">
               <Header title="Todo List" subTitle="Get things done"/>
-              <Header title="" subTitle="Your Name: Đinh Nhi"/>
+              
               <TaskList 
               tasks={tasks} 
               showIncomplete={showIncomplete} 
